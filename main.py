@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 
-api_id = 7929455  # « API ID HERE
-api_hash = "6b8b162661d8ac847c4bb62d43163bde"   # « API HASH HERE
+api_id = 14045631  # « API ID HERE
+api_hash = "c6b44c1b05d9bb5fefa029760d29e960"   # « API HASH HERE
 
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
